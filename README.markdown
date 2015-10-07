@@ -1,4 +1,5 @@
 # Gem PARTY HARD
+![Image of Pinkie Pie](https://media.giphy.com/media/oDq2jEKDLJ8E8/giphy.gif)
 
 Party hard your changelog.  Party hard your party rules.  Party hard your entirely superfluous
 description of the gem I already decided to install.
