@@ -2,17 +2,17 @@
 $:.push File.expand_path("../lib", __FILE__)
 
 Gem::Specification.new do |s|
-  s.name        = "gem-shut-the-fuck-up"
+  s.name        = "gem-party-hard"
   s.version     = "1.0.0"
-  s.authors     = ["Tim Pope"]
-  s.email       = ["code@tpop"+'e.net']
-  s.homepage    = "https://github.com/tpope/gem-shut-the-fuck-up"
-  s.summary     = %q{Disable gem post installation messages}
+  s.authors     = ["Tim Pope", "Mengxiang Jiang"]
+  s.email       = ["code@tpop"+'e.net', 'mj294@cornell.edu']
+  s.homepage    = "https://github.com/mj294/gem-shut-the-fuck-up"
+  s.summary     = %q{Disable gem post installation messages and replaces them with PARTY HARD}
   s.post_install_message = <<-EOF
 \e[35;5m
 ##################################################################
 #                                                                #
-# \e[0;1mWhen you Gem shut the fuck up, you must shut the fuck up hard!\e[0;5;35m #
+# \e[0;1mWhen you Gem Party Hard, you must party hard!\e[0;5;35m #
 #                                                                #
 ##################################################################
 \e[0m
