@@ -3,7 +3,7 @@ $:.push File.expand_path("../lib", __FILE__)
 
 Gem::Specification.new do |s|
   s.name        = "gem-party-hard"
-  s.version     = "1.0.0"
+  s.version     = "1.0.1"
   s.authors     = ["Tim Pope", "Mengxiang Jiang"]
   s.email       = ["code@tpop"+'e.net', 'mj294@cornell.edu']
   s.homepage    = "https://github.com/mj294/gem-shut-the-fuck-up"

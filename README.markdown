@@ -4,7 +4,7 @@
 Party hard your changelog.  Party hard your party rules.  Party hard your entirely superfluous
 description of the gem I already decided to install.
 
-Gem Party Hard turns off post install messages and replaces them with the Party Hard Message.
+Gem Party Hard turns off post install messages (only for gems that have them) and replaces them with the Party Hard Message.
 
 ## Installation
 

@@ -2,6 +2,7 @@ require 'rubygems/installer'
 
 Gem::Installer.class_eval do
   def say(message)
-    message = "When you install gems, you must PARTY HARD!"
+  	super unless message == spec.post_install_message
+  	puts "When you install gems, you must party hard!"
   end
 end
