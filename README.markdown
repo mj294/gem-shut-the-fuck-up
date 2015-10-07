@@ -1,19 +1,19 @@
-# Gem SHUT THE FUCK UP
+# Gem PARTY HARD
 
-Fuck your changelog.  Fuck your party rules.  Fuck your entirely superfluous
+Party hard your changelog.  Party hard your party rules.  Party hard your entirely superfluous
 description of the gem I already decided to install.
 
-Gem Shut The Fuck Up turns off obnoxious and useless post install messages,
-which happens to be all of them.
+Gem Party Hard turns off post install messages and replaces them with the Party Hard Message.
 
 ## Installation
 
-    $ gem install gem-shut-the-fuck-up
+    $ gem install gem-party-hard
 
 ## Usage
 
     $ gem install httparty
     Successfully installed httparty-0.13.3
+    You must Party Hard!
     1 gem installed
 
 ## License
@@ -21,5 +21,5 @@ which happens to be all of them.
 Copyright © Tim Pope
 
 This work is free. You can redistribute it and/or modify it under the
-terms of the Do What The Fuck You Want To Public License, Version 2,
+terms of the Party As Hard As You Want To Public License, Version 2,
 as published by Sam Hocevar. See the COPYING file for more details.
